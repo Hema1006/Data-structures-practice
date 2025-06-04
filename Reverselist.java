@@ -1,4 +1,4 @@
-class SinglyLinkedList{
+class Reverselist{
     //class- Node
     static class Node{
         
@@ -61,7 +61,7 @@ public void rev(){
 }
 public class Main{   
     public static void main(String[] args){
-       SinglyLinkedList sl=new SinglyLinkedList();
+       Reverselist sl=new Reverselist();
        sl.insertAtBeg(5);
        sl.insertAtBeg(6);
        sl.insertAtBeg(7);
