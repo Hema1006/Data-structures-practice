@@ -2,8 +2,8 @@ class Reverselist{
     //class- Node
     static class Node{
         
-        int data;//4 
-        Node next;//12
+        int data; 
+        Node next;
         Node(int data){
             this.data=data;
         }
