@@ -3,7 +3,7 @@ class Reversegrp{
     static class Node{
         
         int data;
-        Node next;/
+        Node next;
         Node(int data){
             this.data=data;
         }
